@@ -1,6 +1,6 @@
 id = "nixd"
 name = "Nix'd"
-version = "0.0.1"
+version = "0.0.2"
 schema_version = 1
 authors = ["It Just Crashed"]
 description = "A calm, subtle colorscheme with orange and blue hues."
