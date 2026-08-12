@@ -1,0 +1,7 @@
+id = "nixd"
+name = "Nix'd"
+version = "0.0.1"
+schema_version = 1
+authors = ["It Just Crashed"]
+description = "A calm, subtle colorscheme with orange and blue hues."
+repository = "https://github.com/your-name/my-zed-extension"
